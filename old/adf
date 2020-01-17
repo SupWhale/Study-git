@@ -1,0 +1,90 @@
+[33mcommit d99b3b25ecc5c776e93682e5b4cd695590c11169[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:50:25 2020 +0900
+
+    ADD DFSFA
+
+[33mcommit 38a7197b4222e0c0346229661fd622fb51f4d95c[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 5e94675 49bc827
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:44:14 2020 +0900
+
+    Merge pull request #3 from SupWhale/iaa
+    
+    Added iaa #1
+
+[33mcommit 49bc827e09f6246b4cc9c1ff2682d98dc253b75c[m[33m ([m[1;31morigin/iaa[m[33m)[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:42:20 2020 +0900
+
+    Added iaa #1
+
+[33mcommit 5e946756ff893b22e55896994f7a2c3ffc7f2cea[m
+Merge: 61ffa85 1eb6705
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:37:46 2020 +0900
+
+    Merge pull request #2 from SupWhale/issue1
+    
+    Added branch.txt
+
+[33mcommit 1eb670586014cda75237b720395bfa020d7a1b56[m[33m ([m[1;31morigin/issue1[m[33m)[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:31:22 2020 +0900
+
+    Added branch.txt
+    
+    -  브랜치를 연습하기 위한 파일ㄴ
+
+[33mcommit 61ffa858a6a3f38c91e73e7d70dd0f6e11be2de2[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:25:47 2020 +0900
+
+    Modified test.txt #1
+
+[33mcommit 7c72f302334f1f8c893a8c5b299f65df102d685c[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:22:24 2020 +0900
+
+    Added issue.txt #1
+    
+    -블라블라
+
+[33mcommit 0f709f376c89b73549a27abb56ea0c26a93f2be5[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:13:57 2020 +0900
+
+    Added README
+    
+    (대충 프로젝트를 설명하는 파일을 추가했다는 얘기)
+
+[33mcommit cfde70cae97869f95090eff7e9d67aea63cee2a9[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 15:10:19 2020 +0900
+
+    Add 연습용 push 파일
+
+[33mcommit 1509d6a164d17cdcf5e8aedb5ce8b34d4fcd510e[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 14:33:52 2020 +0900
+
+    Modified hello.py
+    
+    -Hello KS를 출력하는 구문을 추가함
+
+[33mcommit 74dc189aa42d3f989b8710b055f66d4aeca70f59[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 14:31:41 2020 +0900
+
+    Add sum
+    
+    -파일 sum 추가
+
+[33mcommit aac44a2fd35ba6e2ef367231b3eeba43373b45e6[m
+Author: sharkwhale <kmjbs313@gmail.com>
+Date:   Fri Jan 17 14:26:45 2020 +0900
+
+    Added hello.py
+    
+    - hello world 구문 작성
+    - (대충 설명한다는 문장)
